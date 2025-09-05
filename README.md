@@ -38,11 +38,6 @@ Compartilho meus projetos e aprendizados aqui no GitHub, além de estar sempre e
 
 <br clear="left"/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allanxavierdev/allanxavierdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allanxavierdev/allanxavierdev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/allanxavierdev/allanxavierdev/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
