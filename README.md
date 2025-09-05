@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Allan Xavier, tenho 22 anos e sou natural de Brasília – DF. Atualmente estou cursando Ciência da Computação no UniCEUB.
+Me chamo Allan Xavier, tenho 22 anos e sou natural de Brasília – DF. Atualmente estou cursando Ciência da Computação no CEUB.
 
 Sou apaixonado por tecnologia e desenvolvimento back-end, com foco em Python, JavaScript e SQL, além de grande interesse em Inteligência Artificial e Ciência de Dados.
 Também possuo experiência criativa com VFX e Design, unindo tecnologia e arte para criar soluções inovadoras.
