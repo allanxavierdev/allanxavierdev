@@ -1,13 +1,14 @@
-# 🧑‍💻 Allan Xavier
+🧑‍💻 Allan Xavier
 
-**`Desenvolvedor Backend`**
+Desenvolvedor Front-end
 
-Me chamo Allan Xavier, tenho 22 anos e sou natural de Brasília – DF. Atualmente estou cursando Ciência da Computação no CEUB.
+Me chamo Allan Xavier, tenho 22 anos e sou natural de Brasília – DF.
+Atualmente curso Ciência da Computação no CEUB e estou construindo minha carreira como desenvolvedor front-end, criando interfaces modernas, responsivas e focadas na melhor experiência do usuário.
 
-Sou apaixonado por tecnologia e desenvolvimento back-end, com foco em Python, JavaScript e SQL, além de grande interesse em Inteligência Artificial e Ciência de Dados.
-Também possuo experiência criativa com VFX e Design, unindo tecnologia e arte para criar soluções inovadoras.
+Tenho domínio de HTML, CSS, JavaScript e React, além de interesse em explorar TypeScript, Node.js e APIs para evoluir como fullstack no futuro.
+Também possuo experiência criativa com VFX e Design, o que fortalece minha visão estética e atenção a detalhes nos projetos.
 
-Compartilho meus projetos e aprendizados aqui no GitHub, além de estar sempre em busca de novas oportunidades para evoluir como desenvolvedor e contribuir com a comunidade de tecnologia.
+Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre em busca de evoluir e colaborar com a comunidade de tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanxavierdev) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanxavierdev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanxavier@gmail.com)
 
@@ -19,21 +20,21 @@ Compartilho meus projetos e aprendizados aqui no GitHub, além de estar sempre e
 <!-- Languages -->
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="HTLM5" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="REACT.JS" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="TYPESCRIPT" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTLM5" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+                    
 
-<!-- Backend -->
-<img align="left" alt="Django" title="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img align="left" alt="FastAPI" title="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-<img align="left" alt="Node.js" title="Node.js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
 
 <!-- Databases -->
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="MongoDB" title="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+
 
 <!-- DevOps & Tools -->
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Docker" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 <br clear="left"/>
