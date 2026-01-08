@@ -7,7 +7,7 @@ Atuo no desenvolvimento de aplicações server-side utilizando FastAPI, bancos d
 
 Sou formado em Ciência da Computação pelo UniCEUB e estou em constante evolução técnica, buscando oportunidades como Desenvolvedor Back-end Júnior
 
-Tenho domínio de HTML, CSS, JavaScript e React, além de interesse em explorar TypeScript, Node.js e APIs para evoluir como fullstack no futuro.
+Tenho domínio de Python, HTML, CSS, JavaScript e React, além de interesse em explorar TypeScript, Node.js e APIs para evoluir como fullstack no futuro.
 Também possuo experiência criativa com VFX e Design, o que fortalece minha visão estética e atenção a detalhes nos projetos.
 
 Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre em busca de evoluir e colaborar com a comunidade de tecnologia.
