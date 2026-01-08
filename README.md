@@ -1,7 +1,5 @@
 🧑‍💻 Allan Xavier
 
-Desenvolvedor Back-end
-
 Desenvolvedor Back-end com foco em Python, APIs REST e integração de sistemas.
 Atuo no desenvolvimento de aplicações server-side utilizando FastAPI, bancos de dados relacionais e Docker, com boas práticas de versionamento e documentação.
 
