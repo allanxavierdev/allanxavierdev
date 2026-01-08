@@ -1,9 +1,11 @@
 🧑‍💻 Allan Xavier
 
-Desenvolvedor Front-end
+Desenvolvedor Back-end
 
-Me chamo Allan Xavier, tenho 22 anos e sou natural de Brasília – DF.
-Atualmente curso Ciência da Computação no CEUB e estou construindo minha carreira como desenvolvedor front-end, criando interfaces modernas, responsivas e focadas na melhor experiência do usuário.
+Desenvolvedor Back-end com foco em Python, APIs REST e integração de sistemas.
+Atuo no desenvolvimento de aplicações server-side utilizando FastAPI, bancos de dados relacionais e Docker, com boas práticas de versionamento e documentação.
+
+Sou formado em Ciência da Computação pelo UniCEUB e estou em constante evolução técnica, buscando oportunidades como Desenvolvedor Back-end Júnior
 
 Tenho domínio de HTML, CSS, JavaScript e React, além de interesse em explorar TypeScript, Node.js e APIs para evoluir como fullstack no futuro.
 Também possuo experiência criativa com VFX e Design, o que fortalece minha visão estética e atenção a detalhes nos projetos.
@@ -30,7 +32,7 @@ Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre em busc
 
 
 <!-- Databases -->
-
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 
 <!-- DevOps & Tools -->
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
