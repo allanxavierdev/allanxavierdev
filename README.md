@@ -1,14 +1,16 @@
-🧑‍💻 Allan Xavier
+👨‍💻 Allan Xavier
 
-Desenvolvedor Back-end com foco em Python, APIs REST e integração de sistemas.
-Atuo no desenvolvimento de aplicações server-side utilizando FastAPI, bancos de dados relacionais e Docker, com boas práticas de versionamento e documentação.
+Desenvolvedor Full Stack Júnior com foco em Python e JavaScript, experiência no desenvolvimento de APIs REST, integração entre back-end e front-end e construção de aplicações web completas.
 
-Sou formado em Ciência da Computação pelo UniCEUB e estou em constante evolução técnica, buscando oportunidades como Desenvolvedor Back-end Júnior
+Atuo no desenvolvimento de soluções utilizando Python (FastAPI, Django), Node.js (Express) e bancos de dados relacionais, com boas práticas de versionamento, documentação e containerização com Docker.
 
-Tenho domínio de Python, HTML, CSS, JavaScript e React, além de interesse em explorar TypeScript, Node.js e APIs para evoluir como fullstack no futuro.
-Também possuo experiência criativa com VFX e Design, o que fortalece minha visão estética e atenção a detalhes nos projetos.
+Sou graduando em Ciência da Computação pelo UniCEUB e estou em constante evolução técnica, com interesse em automação, Inteligência Artificial e desenvolvimento de soluções SaaS escaláveis.
 
-Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre em busca de evoluir e colaborar com a comunidade de tecnologia.
+Também possuo experiência com HTML, CSS, JavaScript e React para construção de interfaces web e consumo de APIs REST, o que fortalece minha atuação como desenvolvedor Full Stack. Tenho também background criativo com VFX e Design, o que contribui para atenção a detalhes e melhor comunicação entre front-end e back-end.
+
+
+Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre buscando evoluir tecnicamente e colaborar com a comunidade.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanxavierdev) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanxavierdev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanxavier@gmail.com)
 
