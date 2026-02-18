@@ -1,12 +1,21 @@
 👨‍💻 Allan Xavier
 
-Desenvolvedor Full Stack Júnior com foco em Python e JavaScript, experiência no desenvolvimento de APIs REST, integração entre back-end e front-end e construção de aplicações web completas.
+Sou desenvolvedor backend formado em Ciência da Computação, com foco na construção de APIs REST escaláveis, integração entre serviços e arquitetura orientada a boas práticas de engenharia de software.
 
-Atuo no desenvolvimento de soluções utilizando Python (FastAPI, Django), Node.js (Express) e bancos de dados relacionais, com boas práticas de versionamento, documentação e containerização com Docker.
+Tenho experiência no desenvolvimento de aplicações utilizando Python (FastAPI e Django), modelagem de dados com PostgreSQL, autenticação JWT, containerização com Docker e deploy em ambientes AWS.
 
-Sou graduando em Ciência da Computação pelo UniCEUB e estou em constante evolução técnica, com interesse em automação, Inteligência Artificial e desenvolvimento de soluções SaaS escaláveis.
+Atuo com versionamento Git, organização de código, integração contínua (CI/CD) e estruturação de projetos backend para ambientes de produção.
 
-Também possuo experiência com HTML, CSS, JavaScript e React para construção de interfaces web e consumo de APIs REST, o que fortalece minha atuação como desenvolvedor Full Stack. Tenho também background criativo com VFX e Design, o que contribui para atenção a detalhes e melhor comunicação entre front-end e back-end.
+---
+
+## 🚀 Principais Tecnologias
+
+- **Backend:** Python, FastAPI, Django
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB
+- **Infraestrutura:** Docker, AWS
+- **Versionamento:** Git & GitHub
+- **APIs:** REST, JWT, OAuth2
+- **Arquitetura:** MVC, APIs orientadas a serviços
 
 
 Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre buscando evoluir tecnicamente e colaborar com a comunidade.
