@@ -8,14 +8,6 @@ Atuo com versionamento Git, organização de código, integração contínua (CI
 
 ---
 
-## 🚀 Principais Tecnologias
-
-- **Backend:** Python, FastAPI, Django
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB
-- **Infraestrutura:** Docker, AWS
-- **Versionamento:** Git & GitHub
-- **APIs:** REST, JWT, OAuth2
-- **Arquitetura:** MVC, APIs orientadas a serviços
 
 
 Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre buscando evoluir tecnicamente e colaborar com a comunidade.
