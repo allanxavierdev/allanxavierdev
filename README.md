@@ -7,8 +7,31 @@ Tenho experiência no desenvolvimento de aplicações utilizando Python (FastAPI
 Atuo com versionamento Git, organização de código, integração contínua (CI/CD) e estruturação de projetos backend para ambientes de produção.
 
 ---
+## 🚀 Experiência Técnica
 
+- Desenvolvimento de APIs REST com **FastAPI** e **Django**
+- Modelagem e persistência de dados com **PostgreSQL**
+- Autenticação e segurança com **JWT**
+- Containerização com **Docker**
+- Deploy em ambientes **AWS**
+- Versionamento com **Git**
+- Estruturação de projetos backend para ambientes de produção
+- Integração contínua (CI/CD)
 
+## 🏗️ Arquitetura & Boas Práticas
+
+- Organização modular de código
+- Separação de responsabilidades
+- Clean Code
+- Padrões REST
+- Estruturação para escalabilidade
+- Integração entre serviços
+
+## 📌 Objetivo
+
+Atuar no desenvolvimento de sistemas robustos, escaláveis e bem estruturados, contribuindo tecnicamente em projetos backend e ambientes de produção.
+
+--- 
 
 Aqui no GitHub compartilho meus projetos, estudos e aprendizados, sempre buscando evoluir tecnicamente e colaborar com a comunidade.
 
