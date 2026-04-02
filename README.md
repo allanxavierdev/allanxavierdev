@@ -1,6 +1,6 @@
 # 👨‍💻 Allan Xavier
 
-Desenvolvedor Backend | Python | AI Engineer  
+
 
 Sou formado em Ciência da Computação e atuo no desenvolvimento de sistemas backend escaláveis, com foco na construção de APIs REST, integração entre serviços e aplicações com inteligência artificial.
 
