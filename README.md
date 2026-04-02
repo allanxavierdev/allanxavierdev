@@ -61,19 +61,37 @@ Aqui no GitHub compartilho projetos práticos de backend e inteligência artific
 
 ---
 
-## ⚙️ Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-### Linguagens
-Python • JavaScript • TypeScript
+<!-- Languages -->
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 
-### Backend
-FastAPI • Django • REST APIs
+<!-- Backend -->
+<img align="left" alt="FastAPI" title="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="Django" title="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 
-### Frontend
-React • HTML • CSS • Figma
+<!-- Frontend -->
+<img align="left" alt="React" title="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="HTML5" title="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" title="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-### Banco de Dados
-PostgreSQL • MySQL • SQLite
+<!-- Databases -->
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="SQLite" title="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
 
-### DevOps & Ferramentas
-Docker • AWS • Git • GitHub • Linux
+<!-- DevOps -->
+<img align="left" alt="Docker" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="AWS" title="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+<!-- AI / LLM -->
+<img align="left" alt="OpenAI" title="LLM APIs (OpenAI)" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg"/>
+<img align="left" alt="RAG" title="RAG (Retrieval-Augmented Generation)" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
+
+<br clear="left"/>
+<br/>
+<br/>
